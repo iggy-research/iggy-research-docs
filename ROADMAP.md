@@ -99,13 +99,13 @@ Users decide what leaves their computer and what others see.
 
 ## 10. Sign-in without passwords
 The standard sign-in is a one-time code sent by email; Google and Apple are optional shortcuts.
-- [ ] Email one-time password (OTP): enter your email → receive a 6-digit code → sign in (no passwords;
+- [x] Email one-time password (OTP): enter your email → receive a 6-digit code → sign in (no passwords;
       codes expire after 10 minutes, single use, rate-limited; sent via Resend)
 - [ ] Sign in with Google
 - [ ] Sign in with Apple (required on macOS/iOS if other social sign-ins are offered)
 - [ ] One account per email: Google, Apple and the email code all lead to the same account
 - [ ] Desktop app: code entry and Google/Apple sign-in via the system browser with a deep link back to the app
-- [ ] Migrate existing password accounts (the next sign-in switches them to email codes)
+- [x] Migrate existing password accounts (the next sign-in switches them to email codes)
 
 ## 11. Analytics
 Product analytics to understand how Iggy is used — in line with the manifesto: no cookies, no tracking across sites, no selling data.
