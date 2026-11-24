@@ -97,14 +97,14 @@ Users decide what leaves their computer and what others see.
 - [ ] Remove server copies of notes excluded from sync (they stay today; encrypted with E2E)
 - [ ] Publish a whole folder in one click (today: note by note)
 
-## 10. Sign-in without passwords
+## 10. Sign-in without passwords ✅
 The standard sign-in is a one-time code sent by email; Google and Apple are optional shortcuts.
 - [x] Email one-time password (OTP): enter your email → receive a 6-digit code → sign in (no passwords;
       codes expire after 10 minutes, single use, rate-limited; sent via Resend)
-- [ ] Sign in with Google
-- [ ] Sign in with Apple (required on macOS/iOS if other social sign-ins are offered)
-- [ ] One account per email: Google, Apple and the email code all lead to the same account
-- [ ] Desktop app: code entry and Google/Apple sign-in via the system browser with a deep link back to the app
+- [x] Sign in with Google (enabled with `GOOGLE_CLIENT_IDS`)
+- [x] Sign in with Apple (enabled with `APPLE_CLIENT_IDS`; required on macOS/iOS if other social sign-ins are offered)
+- [x] One account per email: Google, Apple and the email code all lead to the same account
+- [x] Desktop app: code entry and Google/Apple sign-in via the system browser with a deep link back to the app (one-time code + PKCE-style verifier)
 - [x] Migrate existing password accounts (the next sign-in switches them to email codes)
 
 ## 11. Analytics
