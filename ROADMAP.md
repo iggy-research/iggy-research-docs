@@ -60,7 +60,7 @@ write text that reaches readers as the author's. Every task has its own model in
 
 **Intellectual sparring**
 - [x] Devil's advocate — the strongest counterargument to a selection, paragraph or note (“Counter” button)
-- [ ] Socratic dialogue — AI asks one question at a time and digs deeper; the answers are saved as a note
+- [x] Socratic dialogue — AI asks one question at a time and digs deeper; the answers are saved as a note
 - [x] Assumption test — “this paragraph assumes X; are you sure?”
 
 **Mirror**
@@ -70,8 +70,8 @@ write text that reaches readers as the author's. Every task has its own model in
 
 **Second brain — a memory people don't have**
 - [x] “You used to think otherwise” — contradictions and changes of mind against older notes; the closest notes picked locally (“Before” button)
-- [ ] Non-obvious connections — the same mechanism in notes from different fields
-- [ ] Resurfacing notes — abandoned thoughts that fit what you are working on now
+- [x] Non-obvious connections — the same mechanism in notes from different fields
+- [x] Resurfacing notes — abandoned thoughts that fit what you are working on now
 
 **Getting started without writing for the author**
 - [x] Starter questions — instead of an outline, 5 questions whose answers become the text
