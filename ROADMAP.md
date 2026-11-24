@@ -45,7 +45,8 @@ Why we build it: see [PHILOSOPHY.md](PHILOSOPHY.md).
 - [x] The manifesto from PHILOSOPHY.md as the core content (read straight from the file), full text at `/manifest`
 - [x] Waitlist / newsletter signup (with consent to product emails)
 - [x] Directory of public blogs written in Iggy
-- [ ] Real screenshots instead of the illustration and the first release on GitHub Releases
+- [x] First public release on GitHub Releases (v0.2.0: macOS Apple Silicon and Intel, Linux .AppImage/.deb/.rpm)
+- [ ] Real screenshots instead of the illustration
 - [x] Public downloads: the desktop repository is public; tagged versions are built by GitHub Actions for macOS and Linux
 
 ## 7. Autosave ✅
