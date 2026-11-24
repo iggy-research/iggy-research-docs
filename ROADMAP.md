@@ -24,7 +24,7 @@ Why we build it: see [PHILOSOPHY.md](PHILOSOPHY.md).
 - [x] Optional end-to-end encryption (AES-GCM + PBKDF2; the server only sees ciphertext)
 - [x] Document version history (local in `.iggy/history` + server versions, restore with ⟲)
 - [x] Serverless alternative: sync via Git (commit / pull --rebase / push) or a cloud folder
-- [ ] Sync attachments (images, PDFs) — only .md notes today
+- [x] Sync attachments (images, PDFs, audio, video; up to 25 MB each, end-to-end encrypted with E2E)
 
 ## 4. Publishing — blog and posts ✅
 - [x] Publish a note as a blog post with one shortcut (↗ or Ctrl+Shift+U; images uploaded with the post)
