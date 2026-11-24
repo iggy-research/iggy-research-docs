@@ -94,7 +94,7 @@ Users decide what leaves their computer and what others see.
 - [x] Every blog has its own newsletter, RSS/Atom (`/feeds/@author/<blog>.xml`) and an optional custom domain
 - [x] Digital garden as a page type within a blog; [[links]] and backlinks also work across the author's blogs
 - [x] The sync server is fixed to iggy-research.com; a custom (self-hosted) server only under advanced options
-- [ ] Remove server copies of notes excluded from sync (they stay today; encrypted with E2E)
+- [x] Remove server copies of notes excluded from sync (with their version history; files stay on all devices)
 - [ ] Publish a whole folder in one click (today: note by note)
 
 ## 10. Sign-in without passwords ✅
