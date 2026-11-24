@@ -54,7 +54,7 @@ Why we build it: see [PHILOSOPHY.md](PHILOSOPHY.md).
 - [x] Only for files already on disk — a new note still needs its first Ctrl+S
 - [x] The status dot in the toolbar shows that the save happened
 
-## 8. AI as a sparring partner and a mirror — not a ghostwriter
+## 8. AI as a sparring partner and a mirror — not a ghostwriter ✅
 Rule: AI may touch the thinking, but not the sentences. It asks, points out, reminds and organizes — it does not
 write text that reaches readers as the author's. Every task has its own model in settings.
 
@@ -75,7 +75,7 @@ write text that reaches readers as the author's. Every task has its own model in
 
 **Getting started without writing for the author**
 - [x] Starter questions — instead of an outline, 5 questions whose answers become the text
-- [ ] Voice note → loose bullet points (organizing, not prose)
+- [x] Voice note → loose bullet points (organizing, not prose; needs an audio-capable model, default Gemini 4 Hydrogen)
 
 **At publishing time**
 - [x] Pre-send check — facts, numbers and quotes to verify, inconsistencies, typos
