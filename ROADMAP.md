@@ -16,7 +16,7 @@ Why we build it: see [PHILOSOPHY.md](PHILOSOPHY.md).
 - [x] Document language detection (9 languages, offline) and AI replies in the same language
 - [x] AI editor prompts per language (Polish and English; an empty prompt = the default for the document's language)
 - [x] Spell checking for the chosen or detected language (editor `lang` attribute → system dictionary)
-- [ ] Welcome notes in English (Polish only today)
+- [x] Welcome notes in English (chosen by the interface language on first launch)
 
 ## 3. Server sync ✅
 - [x] Backend for notes and settings (user accounts) — Django + DRF in `iggy-research-api`
