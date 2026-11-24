@@ -95,7 +95,7 @@ Users decide what leaves their computer and what others see.
 - [x] Digital garden as a page type within a blog; [[links]] and backlinks also work across the author's blogs
 - [x] The sync server is fixed to iggy-research.com; a custom (self-hosted) server only under advanced options
 - [x] Remove server copies of notes excluded from sync (with their version history; files stay on all devices)
-- [ ] Publish a whole folder in one click (today: note by note)
+- [x] Publish a whole folder in one click (existing posts are updated)
 
 ## 10. Sign-in without passwords ✅
 The standard sign-in is a one-time code sent by email; Google and Apple are optional shortcuts.
