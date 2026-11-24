@@ -79,7 +79,7 @@ write text that reaches readers as the author's. Every task has its own model in
 
 **At publishing time**
 - [x] Pre-send check — facts, numbers and quotes to verify, inconsistencies, typos
-- [ ] Conversation — readers' replies grouped into threads and questions as material for new notes (closes the loop from the manifesto)
+- [x] Conversation — readers reply privately under posts (and from newsletter emails); in the app replies become threads and questions for a new note (closes the loop from the manifesto)
 
 **To think about**
 - [x] Paragraph review only points out the problem by default (“this sentence is unclear because…”); a ready “before → after” only on request (closer to principle no. 2)
