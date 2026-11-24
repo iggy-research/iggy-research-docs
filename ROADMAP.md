@@ -82,7 +82,7 @@ write text that reaches readers as the author's. Every task has its own model in
 - [ ] Conversation — readers' replies grouped into threads and questions as material for new notes (closes the loop from the manifesto)
 
 **To think about**
-- [ ] Paragraph review only points out the problem by default (“this sentence is unclear because…”); a ready “before → after” only on request (closer to principle no. 2)
+- [x] Paragraph review only points out the problem by default (“this sentence is unclear because…”); a ready “before → after” only on request (closer to principle no. 2)
 
 **What we don't do:** generating paragraphs or finishing sentences, “rewrite it better”, automatic titles and leads for publishing.
 
