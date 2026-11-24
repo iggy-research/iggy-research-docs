@@ -46,7 +46,7 @@ Why we build it: see [PHILOSOPHY.md](PHILOSOPHY.md).
 - [x] Waitlist / newsletter signup (with consent to product emails)
 - [x] Directory of public blogs written in Iggy
 - [ ] Real screenshots instead of the illustration and the first release on GitHub Releases
-- [ ] Public downloads (the desktop repository is private — a public releases repo or downloads served from iggy-research.com)
+- [x] Public downloads: the desktop repository is public; tagged versions are built by GitHub Actions for macOS and Linux
 
 ## 7. Autosave ✅
 - [x] A settings toggle: autosave on / off (on by default — how it worked before)
@@ -96,3 +96,21 @@ Users decide what leaves their computer and what others see.
 - [x] The sync server is fixed to iggy-research.com; a custom (self-hosted) server only under advanced options
 - [ ] Remove server copies of notes excluded from sync (they stay today; encrypted with E2E)
 - [ ] Publish a whole folder in one click (today: note by note)
+
+## 10. Sign-in without passwords
+The standard sign-in is a one-time code sent by email; Google and Apple are optional shortcuts.
+- [ ] Email one-time password (OTP): enter your email → receive a 6-digit code → sign in (no passwords;
+      codes expire after 10 minutes, single use, rate-limited; sent via Resend)
+- [ ] Sign in with Google
+- [ ] Sign in with Apple (required on macOS/iOS if other social sign-ins are offered)
+- [ ] One account per email: Google, Apple and the email code all lead to the same account
+- [ ] Desktop app: code entry and Google/Apple sign-in via the system browser with a deep link back to the app
+- [ ] Migrate existing password accounts (the next sign-in switches them to email codes)
+
+## 11. Analytics
+Product analytics to understand how Iggy is used — in line with the manifesto: no cookies, no tracking across sites, no selling data.
+- [ ] Website: visits, sources, product page → download / waitlist conversion (privacy-friendly, cookieless)
+- [ ] Desktop app: anonymous, opt-in usage stats (which features are used, AI tasks, publishing); off by default,
+      clearly described, never note contents
+- [ ] Server: dashboard with sign-ups, active authors, published posts, newsletter sends and deliverability (Resend events)
+- [ ] Authors: richer blog stats — per-post trends, newsletter opens/clicks (only if the author enables it), top referrers
