@@ -61,12 +61,12 @@ write text that reaches readers as the author's. Every task has its own model in
 **Intellectual sparring**
 - [x] Devil's advocate — the strongest counterargument to a selection, paragraph or note (“Counter” button)
 - [ ] Socratic dialogue — AI asks one question at a time and digs deeper; the answers are saved as a note
-- [ ] Assumption test — “this paragraph assumes X; are you sure?”
+- [x] Assumption test — “this paragraph assumes X; are you sure?”
 
 **Mirror**
 - [x] Cliché detector — sentences that sound like average internet text, underlined in the editor, never rewritten (“Clichés” button)
-- [ ] “What are you actually claiming?” — the text's thesis in one sentence; if it's the wrong one, the problem is in the text
-- [ ] Lay reader — places where someone outside the topic gets lost (marked, not fixed)
+- [x] “What are you actually claiming?” — the text's thesis in one sentence; if it's the wrong one, the problem is in the text
+- [x] Lay reader — places where someone outside the topic gets lost (marked, not fixed)
 
 **Second brain — a memory people don't have**
 - [x] “You used to think otherwise” — contradictions and changes of mind against older notes; the closest notes picked locally (“Before” button)
@@ -74,11 +74,11 @@ write text that reaches readers as the author's. Every task has its own model in
 - [ ] Resurfacing notes — abandoned thoughts that fit what you are working on now
 
 **Getting started without writing for the author**
-- [ ] Starter questions — instead of an outline, 5 questions whose answers become the text
+- [x] Starter questions — instead of an outline, 5 questions whose answers become the text
 - [ ] Voice note → loose bullet points (organizing, not prose)
 
 **At publishing time**
-- [ ] Pre-send check — facts, numbers and quotes to verify, inconsistencies, typos
+- [x] Pre-send check — facts, numbers and quotes to verify, inconsistencies, typos
 - [ ] Conversation — readers' replies grouped into threads and questions as material for new notes (closes the loop from the manifesto)
 
 **To think about**
