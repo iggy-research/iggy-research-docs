@@ -107,10 +107,10 @@ The standard sign-in is a one-time code sent by email; Google and Apple are opti
 - [x] Desktop app: code entry and Google/Apple sign-in via the system browser with a deep link back to the app (one-time code + PKCE-style verifier)
 - [x] Migrate existing password accounts (the next sign-in switches them to email codes)
 
-## 11. Analytics
+## 11. Analytics ✅
 Product analytics to understand how Iggy is used — in line with the manifesto: no cookies, no tracking across sites, no selling data.
-- [ ] Website: visits, sources, product page → download / waitlist conversion (privacy-friendly, cookieless)
-- [ ] Desktop app: anonymous, opt-in usage stats (which features are used, AI tasks, publishing); off by default,
+- [x] Website: visits, sources, product page → download / waitlist conversion (privacy-friendly, cookieless)
+- [x] Desktop app: anonymous, opt-in usage stats (which features are used, AI tasks, publishing); off by default,
       clearly described, never note contents
-- [ ] Server: dashboard with sign-ups, active authors, published posts, newsletter sends and deliverability (Resend events)
-- [ ] Authors: richer blog stats — per-post trends, newsletter opens/clicks (only if the author enables it), top referrers
+- [x] Server: dashboard with sign-ups, active authors, published posts, newsletter sends and deliverability (Resend events)
+- [x] Authors: richer blog stats — per-post trends, newsletter opens/clicks (only if the author enables it), top referrers
